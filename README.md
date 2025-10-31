@@ -1,3 +1,11 @@
+<div align="center">
+<br/>
+<img src="https://raw.githubusercontent.com/tanmoykdas/tanmoykdas/master/assets/terminal.gif" alt="Here is a little bit about me!">
+<br />
+<p><i>GIF loading a little slow? You can drink a cup of ☕ first</i>.</p>
+<br/>
+</div>
+
 # 💫 About Me:
 🪶 Journal is your personal digital diary — a calm space to write, reflect, and organize your thoughts.<br>With a minimalist design and smooth navigation, it keeps your daily entries safe and accessible anytime.<br>🫂 Open to collaborating on your ideas.<br>✍🏼 Currently learning Spring Boot and React.
 
