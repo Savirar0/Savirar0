@@ -1,8 +1,8 @@
-<div align="center">
+<<div align="center">
 <br/>
-<img src="https://raw.githubusercontent.com/tanmoykdas/tanmoykdas/master/assets/terminal.gif" alt="Here is a little bit about me!">
-<br />
-<p><i>GIF loading a little slow? You can drink a cup of ☕ first</i>.</p>
+<img src="https://raw.githubusercontent.com/Savirar0/Savirar0/main/assets/terminal.gif" alt="About Me">
+<br/>
+<p><i>GIF loading a little slow? You can drink a cup of ☕ first</i></p>
 <br/>
 </div>
 
