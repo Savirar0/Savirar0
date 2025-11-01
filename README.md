@@ -28,5 +28,4 @@
 
 ![snake gif](https://github.com/Savirar0/Savirar0/blob/output/github-snake-dark.svg)
 
-![Visitor Count](https://profile-counter.glitch.me/{Savirar0}/count.svg)
-
+![](https://komarev.com/ghpvc/?username=Savirar0)
