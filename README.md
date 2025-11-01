@@ -6,8 +6,8 @@
 <br/>
 </div>
 
-# 💫 About Me:
-🪶 Journal is your personal digital diary — a calm space to write, reflect, and organize your thoughts.<br>With a minimalist design and smooth navigation, it keeps your daily entries safe and accessible anytime.<br>🫂 Open to collaborating on your ideas.<br>✍🏼 Currently learning Spring Boot and React.
+
+✍🏼 Currently learning Spring Boot and React.
 
 
 ## 🌐 Socials:
@@ -28,6 +28,5 @@
 
 ![snake gif](https://github.com/Savirar0/Savirar0/blob/output/github-snake-dark.svg)
 
----
-[![](https://visitcount.itsvg.in/api?id=Savirar0&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{Savirar0}/count.svg)
 
