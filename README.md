@@ -69,16 +69,17 @@
 
 ## 📊 GitHub Stats
 
+<!-- <div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Savirar0&show_icons=true&theme=gotham&hide_border=true&count_private=false&rank_icon=github"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savirar0&theme=gotham&hide_border=true&layout=compact&langs_count=8"/>
+
+</div> -->
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Savirar0&show_icons=true&theme=gotham&hide_border=true&include_all_commits=false&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savirar0&theme=gotham&hide_border=true&layout=compact"/>
-
-</div>
-
-<div align="center">
-
-![streak](https://nirzak-streak-stats.vercel.app/?user=Savirar0&theme=gotham&hide_border=true)
+![streak](https://streak-stats.demolab.com?user=Savirar0&theme=gotham&hide_border=true)
 
 </div>
 
